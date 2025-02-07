@@ -6,4 +6,4 @@ def findMin(array):
     return res
 
 if __name__ == "__main__":
-    print(findMin([1,2,3,4,5,6,2,3, -100]))
+    print(findMin([1,2,3,4,5,6,2,3,-100]))
